@@ -1,1 +1,1 @@
-from quay.io/openshift/origin-jenkins-agent-base:4.0
+from quay.io/openshift/origin-jenkins-agent-base:latest
